@@ -1,0 +1,7 @@
+highlighter: rouge
+permalink: /:year/:month/:day/:title
+markdown: rdiscount
+exclude: ['.git']
+name: "Vicky Pop"
+description: "Welcome to my garden"
+url: http://tybenz.com/otter-pop
